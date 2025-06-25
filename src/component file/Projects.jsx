@@ -95,7 +95,6 @@ export default function Projects(props) {
   });
   return (
     <section id="projects" className="projects">
-
       <h2>{props.title}</h2>
       <div className="project">{projectsElement}</div>
 
@@ -138,16 +137,10 @@ export default function Projects(props) {
 
       <div className="logos">
         <div className="logos-slider">
-          <img
-            src="imgs/companies logo/Alula-01.png"
-            alt="Alula-logo"
-          />
+          <img src="imgs/companies logo/Alula-01.png" alt="Alula-logo" />
           <img src="imgs/companies logo/anb-01.png" alt="anb-logo" />
           <img src="imgs/companies logo/Hawi-01.png" alt="hawi-logo" />
-          <img
-            src="imgs/companies logo/Heights.png"
-            alt="Heights-logo"
-          />
+          <img src="imgs/companies logo/Heights.png" alt="Heights-logo" />
           <img src="imgs/companies logo/Jisr.png" alt="Jisr-logo" />
           <img
             src="imgs/companies logo/Ministry-of-Finance.png"
@@ -171,30 +164,15 @@ export default function Projects(props) {
             src="imgs/companies logo/saudi central bank.png"
             alt="saudi central bank-logo"
           />
-          <img
-            src="imgs/companies logo/STC-pay-01.png"
-            alt="stc-pay-logo"
-          />
-          <img
-            src="imgs/companies logo/vocally.png"
-            alt="vocally-logo"
-          />
-          <img
-            src="imgs/companies logo/Zid-En-01.png"
-            alt="Zid-logo"
-          />
+          <img src="imgs/companies logo/STC-pay-01.png" alt="stc-pay-logo" />
+          <img src="imgs/companies logo/vocally.png" alt="vocally-logo" />
+          <img src="imgs/companies logo/Zid-En-01.png" alt="Zid-logo" />
         </div>
         <div className="logos-slider">
-          <img
-            src="imgs/companies logo/Alula-01.png"
-            alt="Alula-logo"
-          />
+          <img src="imgs/companies logo/Alula-01.png" alt="Alula-logo" />
           <img src="imgs/companies logo/anb-01.png" alt="anb-logo" />
           <img src="imgs/companies logo/Hawi-01.png" alt="hawi-logo" />
-          <img
-            src="imgs/companies logo/Heights.png"
-            alt="Heights-logo"
-          />
+          <img src="imgs/companies logo/Heights.png" alt="Heights-logo" />
           <img src="imgs/companies logo/Jisr.png" alt="Jisr-logo" />
           <img
             src="imgs/companies logo/Ministry-of-Finance.png"
@@ -218,18 +196,9 @@ export default function Projects(props) {
             src="imgs/companies logo/saudi central bank.png"
             alt="saudi central bank-logo"
           />
-          <img
-            src="imgs/companies logo/STC-pay-01.png"
-            alt="stc-pay-logo"
-          />
-          <img
-            src="imgs/companies logo/vocally.png"
-            alt="vocally-logo"
-          />
-          <img
-            src="imgs/companies logo/Zid-En-01.png"
-            alt="Zid-logo"
-          />
+          <img src="imgs/companies logo/STC-pay-01.png" alt="stc-pay-logo" />
+          <img src="imgs/companies logo/vocally.png" alt="vocally-logo" />
+          <img src="imgs/companies logo/Zid-En-01.png" alt="Zid-logo" />
         </div>
       </div>
     </section>
