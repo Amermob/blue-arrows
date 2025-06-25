@@ -54,7 +54,7 @@ export default function Services(props) {
         >
           <p>Light & Sound System</p>
           <img
-            src="./public/imgs/services/logistecs.png"
+            src="imgs/services/logistecs.png"
             alt="Light & Sound System"
           />
         </motion.div>
@@ -70,7 +70,7 @@ export default function Services(props) {
         >
           <p>Parties & Celebration</p>
           <img
-            src="./public/imgs/services/party.png"
+            src="imgs/services/party.png"
             alt="Weddings & Parties"
           />
         </motion.div>
@@ -86,7 +86,7 @@ export default function Services(props) {
         >
           <p>Corporation Events & Conference</p>
           <img
-            src="./public/imgs/services/conf.png"
+            src="imgs/services/conf.png"
             alt="Corporation Events & Conference"
           />
         </motion.div>
