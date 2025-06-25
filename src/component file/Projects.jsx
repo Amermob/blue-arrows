@@ -11,63 +11,63 @@ export default function Projects(props) {
     {
       id: 1,
       title: "AlUla Race",
-      img: "./public/imgs/porjects/alula-race.png",
+      img: "imgs/porjects/alula-race.png",
       date: "2024",
       alt: "alula-race",
     },
     {
       id: 2,
       title: "Alpha Star Annual Celebration",
-      img: "./public/imgs/porjects/anual-blue-alpha.png",
+      img: "imgs/porjects/anual-blue-alpha.png",
       date: "2024",
       alt: "blue alpha",
     },
     {
       id: 3,
       title: "Jisr Annual Celebration",
-      img: "./public/imgs/porjects/anual-jisr.png",
+      img: "imgs/porjects/anual-jisr.png",
       date: "2024",
       alt: "molhim",
     },
     {
       id: 4,
       title: "Art Museum",
-      img: "./public/imgs/porjects/art-museum.png",
+      img: "imgs/porjects/art-museum.png",
       date: "2021-2022",
       alt: "a picture about Art Museum",
     },
     {
       id: 5,
       title: "Lunch of Geospatial Infomation",
-      img: "./public/imgs/porjects/geospatial-info.png",
+      img: "imgs/porjects/geospatial-info.png",
       date: "2023",
       alt: "Geospatial Infomation picture",
     },
     {
       id: 6,
       title: "The Ceremony of the Distinguished Qualification Programs",
-      img: "./public/imgs/porjects/ministry-of-finance.png",
+      img: "imgs/porjects/ministry-of-finance.png",
       date: "2023",
       alt: "Ceremony of the Distinguished Qualification Program",
     },
     {
       id: 7,
       title: "Saudi Central Bank",
-      img: "./public/imgs/porjects/saudi-centeral-bank.png",
+      img: "imgs/porjects/saudi-centeral-bank.png",
       date: "2024",
       alt: "Saudi Central Bank picture",
     },
     {
       id: 8,
       title: "Zid Booth",
-      img: "./public/imgs/porjects/zid.png",
+      img: "imgs/porjects/zid.png",
       date: "2023",
       alt: "Zid Booth picture",
     },
     {
       id: 9,
       title: "Ceremony of the Model of Health Care Forum",
-      img: "./public/imgs/porjects/health.png",
+      img: "imgs/porjects/health.png",
       date: "2024",
       alt: "Health Holding picture",
     },
@@ -142,92 +142,92 @@ export default function Projects(props) {
             src="./public/imgs/companies logo/Alula-01.png"
             alt="Alula-logo"
           />
-          <img src="./public/imgs/companies logo/anb-01.png" alt="anb-logo" />
-          <img src="./public/imgs/companies logo/Hawi-01.png" alt="hawi-logo" />
+          <img src="imgs/companies logo/anb-01.png" alt="anb-logo" />
+          <img src="imgs/companies logo/Hawi-01.png" alt="hawi-logo" />
           <img
-            src="./public/imgs/companies logo/Heights.png"
+            src="imgs/companies logo/Heights.png"
             alt="Heights-logo"
           />
-          <img src="./public/imgs/companies logo/Jisr.png" alt="Jisr-logo" />
+          <img src="imgs/companies logo/Jisr.png" alt="Jisr-logo" />
           <img
-            src="./public/imgs/companies logo/Ministry-of-Finance.png"
+            src="imgs/companies logo/Ministry-of-Finance.png"
             alt="Ministry-of-Finance-logo"
           />
-          <img src="./public/imgs/companies logo/neom (2).png" alt="neom" />
-          <img src="./public/imgs/companies logo/Nuss.png" alt="nuss-logo" />
+          <img src="imgs/companies logo/neom (2).png" alt="neom" />
+          <img src="imgs/companies logo/Nuss.png" alt="nuss-logo" />
           <img
             src="./public/imgs/companies logo/Riyadh Holding.png"
             alt="Riyadh Holding-logo"
           />
           <img
-            src="./public/imgs/companies logo/Riyadh Season 2024-01.png"
+            src="imgs/companies logo/Riyadh Season 2024-01.png"
             alt="riyadh-season-logo"
           />
           <img
-            src="./public/imgs/companies logo/Saudi Business Center-01.png"
+            src="imgs/companies logo/Saudi Business Center-01.png"
             alt="Saudi Business Center-logo"
           />
           <img
-            src="./public/imgs/companies logo/saudi central bank.png"
+            src="imgs/companies logo/saudi central bank.png"
             alt="saudi central bank-logo"
           />
           <img
-            src="./public/imgs/companies logo/STC-pay-01.png"
+            src="imgs/companies logo/STC-pay-01.png"
             alt="stc-pay-logo"
           />
           <img
-            src="./public/imgs/companies logo/vocally.png"
+            src="imgs/companies logo/vocally.png"
             alt="vocally-logo"
           />
           <img
-            src="./public/imgs/companies logo/Zid-En-01.png"
+            src="imgs/companies logo/Zid-En-01.png"
             alt="Zid-logo"
           />
         </div>
         <div className="logos-slider">
           <img
-            src="./public/imgs/companies logo/Alula-01.png"
+            src="imgs/companies logo/Alula-01.png"
             alt="Alula-logo"
           />
-          <img src="./public/imgs/companies logo/anb-01.png" alt="anb-logo" />
-          <img src="./public/imgs/companies logo/Hawi-01.png" alt="hawi-logo" />
+          <img src="imgs/companies logo/anb-01.png" alt="anb-logo" />
+          <img src="imgs/companies logo/Hawi-01.png" alt="hawi-logo" />
           <img
-            src="./public/imgs/companies logo/Heights.png"
+            src="imgs/companies logo/Heights.png"
             alt="Heights-logo"
           />
           <img src="./public/imgs/companies logo/Jisr.png" alt="Jisr-logo" />
           <img
-            src="./public/imgs/companies logo/Ministry-of-Finance.png"
+            src="imgs/companies logo/Ministry-of-Finance.png"
             alt="Ministry-of-Finance-logo"
           />
-          <img src="./public/imgs/companies logo/neom (2).png" alt="neom" />
-          <img src="./public/imgs/companies logo/Nuss.png" alt="nuss-logo" />
+          <img src="imgs/companies logo/neom (2).png" alt="neom" />
+          <img src="imgs/companies logo/Nuss.png" alt="nuss-logo" />
           <img
-            src="./public/imgs/companies logo/Riyadh Holding.png"
+            src="imgs/companies logo/Riyadh Holding.png"
             alt="Riyadh Holding-logo"
           />
           <img
-            src="./public/imgs/companies logo/Riyadh Season 2024-01.png"
+            src="imgs/companies logo/Riyadh Season 2024-01.png"
             alt="riyadh-season-logo"
           />
           <img
-            src="./public/imgs/companies logo/Saudi Business Center-01.png"
+            src="imgs/companies logo/Saudi Business Center-01.png"
             alt="Saudi Business Center-logo"
           />
           <img
-            src="./public/imgs/companies logo/saudi central bank.png"
+            src="imgs/companies logo/saudi central bank.png"
             alt="saudi central bank-logo"
           />
           <img
-            src="./public/imgs/companies logo/STC-pay-01.png"
+            src="imgs/companies logo/STC-pay-01.png"
             alt="stc-pay-logo"
           />
           <img
-            src="./public/imgs/companies logo/vocally.png"
+            src="imgs/companies logo/vocally.png"
             alt="vocally-logo"
           />
           <img
-            src="./public/imgs/companies logo/Zid-En-01.png"
+            src="imgs/companies logo/Zid-En-01.png"
             alt="Zid-logo"
           />
         </div>
