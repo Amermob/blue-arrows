@@ -139,7 +139,7 @@ export default function Projects(props) {
       <div className="logos">
         <div className="logos-slider">
           <img
-            src="./public/imgs/companies logo/Alula-01.png"
+            src="imgs/companies logo/Alula-01.png"
             alt="Alula-logo"
           />
           <img src="imgs/companies logo/anb-01.png" alt="anb-logo" />
@@ -156,7 +156,7 @@ export default function Projects(props) {
           <img src="imgs/companies logo/neom (2).png" alt="neom" />
           <img src="imgs/companies logo/Nuss.png" alt="nuss-logo" />
           <img
-            src="./public/imgs/companies logo/Riyadh Holding.png"
+            src="imgs/companies logo/Riyadh Holding.png"
             alt="Riyadh Holding-logo"
           />
           <img
@@ -195,7 +195,7 @@ export default function Projects(props) {
             src="imgs/companies logo/Heights.png"
             alt="Heights-logo"
           />
-          <img src="./public/imgs/companies logo/Jisr.png" alt="Jisr-logo" />
+          <img src="imgs/companies logo/Jisr.png" alt="Jisr-logo" />
           <img
             src="imgs/companies logo/Ministry-of-Finance.png"
             alt="Ministry-of-Finance-logo"
